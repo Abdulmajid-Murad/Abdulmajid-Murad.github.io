@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-03-23
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I started a new position as a Postdoctoral Researcher at the Norwegian Research Center for AI Innovation (NorwAI), NTNU. I will conduct research on active learning approaches leveraging reinforcement learning and GFlowNets for efficient data acquisition. :sparkles:
